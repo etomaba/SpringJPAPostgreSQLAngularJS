@@ -37,6 +37,7 @@ public class SeleniumTests {
 		driver.get("http://localhost:8090");
 		System.out.print("  DUPA Test");
 		System.out.print("  DUPA 2 Test");
+		System.out.print("  DUPA 3 Test");
 	}
 
 }
