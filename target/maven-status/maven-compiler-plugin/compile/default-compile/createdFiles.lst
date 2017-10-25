@@ -1,7 +1,0 @@
-com\javasampleapproach\angularjpapostgresql\repo\CustomerRepository.class
-com\javasampleapproach\angularjpapostgresql\message\Response.class
-com\javasampleapproach\angularjpapostgresql\model\Customer.class
-com\javasampleapproach\angularjpapostgresql\ServletInitializer.class
-com\javasampleapproach\angularjpapostgresql\controller\CustomerController.class
-com\javasampleapproach\angularjpapostgresql\controller\WebController.class
-com\javasampleapproach\angularjpapostgresql\SpringJpaPostgreSqlAngularJsApplication.class

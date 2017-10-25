@@ -35,7 +35,7 @@ public class SeleniumTests {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("http://localhost:8090");
-		System.out.print("DUPA Test");
+		System.out.print("  DUPA Test");
 	}
 
 }
